@@ -14,11 +14,6 @@
 - JVM understand byte code
 
 
-<style>
-    img{
-        height:100px;
-        width:auto;
-    }
-</style>
 
-<div> <img src="Images/java2.png"> <img src="Images/java1.png"> </div>
+
+<div> <img style="height:100px;" src="Images/java2.png"> <img src="Images/java1.png"> </div>
