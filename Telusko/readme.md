@@ -16,4 +16,4 @@
 
 
 
-<div> <img style="height:500px;" src="Images/java2.png"> <img style="height:500px;" src="Images/java1.png"> </div>
+<div> <img style="width:400px;" src="Images/java2.png"> <img style="width:400px;" src="Images/java1.png"> </div>
