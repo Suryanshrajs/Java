@@ -9,6 +9,6 @@
 
 
 
--
+------------------------------------------------------------
 - Java is platefrom independent but JVM is not
 - JVM understand byte code
