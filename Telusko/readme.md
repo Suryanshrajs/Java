@@ -9,6 +9,8 @@
 
 
 
-------------------------------------------------------------
+-------
 - Java is platefrom independent but JVM is not
 - JVM understand byte code
+
+<div> <img src="Images/java1.png"> </div>
