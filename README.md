@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Core Java Learning Repository
 
 This repository contains all the codes and exercises I am working on while learning Core Java from the Telusko YouTube channel. It serves as a central place to practice, revise, and refer to Java concepts and programs.
@@ -62,4 +60,4 @@ Special thanks to Navin Reddy sir for providing such great material. 🙏
 ---
 
 Happy coding! 😊
->>>>>>> 11fbd0e7e5df7ed4879b71c3b81cc4eba9ac8fa6
+
