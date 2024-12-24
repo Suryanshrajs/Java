@@ -13,7 +13,7 @@ interface A
 //}
 
 
-public class Demo {
+public class class72 {
     public static void main(String[] args) {
     	
     	A obj=new A()

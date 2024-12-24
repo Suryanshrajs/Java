@@ -1,4 +1,4 @@
-public class hello {
+public class class08 {
 
 	public static void main(String[] args) {
 		byte b=127;
@@ -23,7 +23,7 @@ public class hello {
 		
 		byte a3=10;
 		byte b4=20;
-		int t=a*b;
+		//int t=a*b;
 		System.out.println(t);
 	
 	}

@@ -1,4 +1,4 @@
-public class hello {
+public class class07 {
 
 	public static void main(String[] args) {
 	int num1=0b101;

@@ -1,4 +1,4 @@
-public class hello {
+public class class06 {
 
 	public static void main(String[] args) {
 		int num1=9;
@@ -13,6 +13,7 @@ public class hello {
 		
 		boolean b=true;
 
+		//by default value is present in double not float
 	}
 
 }

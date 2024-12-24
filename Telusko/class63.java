@@ -1,23 +1,22 @@
-abstract class A
+class A
 {
-	public abstract void show();
-	public abstract void config();
-
+	public void show() 
+	{
+		System.out.println("in A show");
+	}
 }
-
 //class B extends A
 //{
 //	public void show()
 //	{
-//		System.out.println("in B show");
+//		System.out.println("in B Show");
 //	}
 //}
 
-
-public class  Demo{
+public class  class63{
     public static void main(String[] args) {
     	
-//    	A obj=new B();
+    	//A obj=new B();
     	
     	A obj=new A() 
     	{
@@ -27,7 +26,6 @@ public class  Demo{
     		}
     	};
     	obj.show();
-    	
     }
 }
 

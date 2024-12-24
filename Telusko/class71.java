@@ -1,4 +1,4 @@
-@Deprecated
+
 class A
 {
 	public void showTheDataWhichBelongsToThisClass()
@@ -18,7 +18,7 @@ class B extends A
 	}
 }
 
-public class Demo {
+public class class71 {
     public static void main(String[] args) {
     	
     	B obj=new B();

@@ -34,7 +34,7 @@ class UpdateWagnoR extends WagnoR   //concrete class
 	}
 }
 
-public class  Demo{
+public class  class61{
     public static void main(String[] args) {
 
  //   	Car obj=new Car();
@@ -45,3 +45,10 @@ public class  Demo{
     }
 }
 
+
+/* 
+functions those are only declared , not defined are called abstract function
+abstact function can be decalred in only abstract class
+we can not create object of abstacr class
+it is not complusory that abstact class can have only abstract class
+*/

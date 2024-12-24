@@ -25,7 +25,7 @@ class A
 }
 
 
-public class  Demo{
+public class  class62{
     public static void main(String[] args) {
     	A obj=new A();
     	obj.show();
